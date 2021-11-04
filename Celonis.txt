@@ -1,1 +1,1 @@
-public static int method1();
+public static int methodNameChanged();
