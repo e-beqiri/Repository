@@ -1,1 +1,3 @@
 public static int methodNameChanged();
+
+public String method2();
